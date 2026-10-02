@@ -1,5 +1,5 @@
 {
-  "Author": "Rudues Greyrat",
+  "Author": "Senyorita Nova",
   "version": "3.0.0",
   "language": "en",
   "adminOnly": false,
@@ -10,12 +10,12 @@
   "autoClean": true,
   "notiGroup": true,
   "NOTIFICATION": true,
-  "EMAIL": "Facebook number/ID",
+  "EMAIL": "",
   "PASSWORD": "Facebook password",
   "OTPKEY": "Facebook 2FA Secret Key",
-  "BOTNAME": "Elise Greyrat",
+  "BOTNAME": "Senyorita Nova",
   "PREFIX": "-",
-  "usePrefix": false,
+  "usePrefix": true,
   "reactUnsend": [
     "😡",
     "🤧",
@@ -23,9 +23,9 @@
     "😠"
   ],
   "ADMINBOT": [
-    "61591445297058",
-    "61591445297058",
-    "61591445297058"
+    "61595168543340",
+    "",
+    ""
   ],
   "DEVELOPER": [
     "100044713412032"
@@ -36,8 +36,8 @@
     "listenEvents": true,
     "autoReconnect": true,
     "online": true,
-    "autoMarkDelivery": false,
-    "autoMarkRead": false,
+    "autoMarkDelivery": true,
+    "autoMarkRead": true,
     "enableTypingIndicator": true,
     "typingDuration": 100
   },
